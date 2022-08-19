@@ -1,2 +1,2 @@
-# Teamviewer
-Retrieve version and ID of teamviewer
+# Supremo
+Retrieve version and ID of Supremo
