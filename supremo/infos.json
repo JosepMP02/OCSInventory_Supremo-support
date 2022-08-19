@@ -1,0 +1,12 @@
+{
+  "displayName" : "Supremo",
+  "author" : ["JosepMarPal"],
+  "contributor" : ["Jose Coy"],
+  "supportedAgent" : ["Unix","Windows"],
+  "version" : "1.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "a",
+    "en" : "Retrieve version and ID of supremo"
+  }
+}
